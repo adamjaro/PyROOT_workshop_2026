@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - root
+  - pyspark
+  - dask
+  - distributed
+  - matplotlib
+  - mplhep
+
