@@ -1,2 +1,6 @@
 *.root
 .ipynb_*
+*.pdf
+*.d
+*.so
+*.pcm
