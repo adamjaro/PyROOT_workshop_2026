@@ -45,6 +45,7 @@ def main():
         #get number of hits in the event
         nhits.value = int(landau.GetRandom())
 
+        #clear the vectors for the next event
         tracks_npoints.clear()
         #clear for eta here
 
